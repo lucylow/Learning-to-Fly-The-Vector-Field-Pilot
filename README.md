@@ -7,6 +7,10 @@
 ![Architecture](https://img.shields.io/badge/architecture-modular-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
+
+![](https://github.com/lucylow/Learning-to-Fly-The-Vector-Field-Pilot/blob/main/Learning%20to%20Fly_%20Vector%20Field%20Pilot.png?raw=true)
+
+
 **Learning to Fly: The Vector Field Pilot** is an interactive educational web application designed to help learners explore differential equations, vector fields, trajectories, equilibrium points, numerical integration, and the relationship between mathematical models and dynamic systems.
 
 The project presents mathematical concepts through an aviation-inspired learning environment. Instead of treating differential equations as purely symbolic exercises, learners interact with a simulated flight deck, configure equations, observe trajectories, complete missions, and investigate how changing model parameters affects system behavior.
