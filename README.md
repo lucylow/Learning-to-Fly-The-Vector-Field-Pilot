@@ -25,8 +25,7 @@ The application combines:
 - Reusable domain services for lessons, experiments, assessments, and educational resources.
 - Supporting systems for accessibility, data management, search, and application workflows.
 
-This repository represents the completed educational prototype and its accompanying reusable subsystem foundations.
-
+![](https://github.com/lucylow/Learning-to-Fly-The-Vector-Field-Pilot/blob/main/9.png?raw=true)
 ---
 
 # Table of Contents
